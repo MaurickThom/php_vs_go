@@ -71,7 +71,7 @@ Percentage of the requests served within a certain time (ms)
  100%     17 (longest request)
 ```
 
-**PHP results**
+**PHP results**:
 ```text
 Server Software:        Apache/2.4.18
 Server Hostname:        gchumillas.localhost
