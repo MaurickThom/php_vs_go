@@ -1,10 +1,4 @@
 <?php
-/**
- * The only purpose of this file is to illustrate a 'model'. A 'model'
- * represents an entity, wich is used from the 'controllores.'
- *
- * Please delete this file in production.
- */
 namespace models;
 use movicon\db\DbActiveRecord;
 use movicon\db\DbConnection;
