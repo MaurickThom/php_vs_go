@@ -1,10 +1,4 @@
 <?php
-/**
- * The only purpose of this file is to illustrate a 'controller'. A 'controller'
- * intercepts and processes HTTTP requests.
- *
- * Please delete this file in production.
- */
 namespace controllers;
 use core\http\Controller;
 use models\ItemModel;
