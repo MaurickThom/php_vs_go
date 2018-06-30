@@ -20,7 +20,7 @@ And perform some tests:
 # This command performs 100000 requests using 10 parallel threads
 ab -c 10 -n 100000 http://localhost:8080/list
 
-# This command performs 100000 requests using 10 parallel thrads
+# This command performs 100000 requests using 10 parallel threads
 ab -c 10 -n 100000 http://path/to/php/public/list
 ```
 
