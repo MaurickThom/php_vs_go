@@ -26,7 +26,7 @@ ab -c 10 -n 100000 http://path/to/php/public/list
 
 ## Results
 
-System info:
+**System info**:
 ```text
 Operating System: Ubuntu 16.04.4 LTS
 HTTP Server: Apache2, PHP5.4
