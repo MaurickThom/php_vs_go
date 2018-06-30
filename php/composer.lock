@@ -1,0 +1,92 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "e84c860dd5fb1212af3a6a2dd8e96432",
+    "packages": [
+        {
+            "name": "movicon/db",
+            "version": "2.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/movicon/movicon-db.git",
+                "reference": "505023932d6cd82462bb0e89b9057175c4b14e38"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/movicon/movicon-db/zipball/505023932d6cd82462bb0e89b9057175c4b14e38",
+                "reference": "505023932d6cd82462bb0e89b9057175c4b14e38",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "movicon\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Gonzalo Chumillas",
+                    "email": "gchumillas@email.com"
+                }
+            ],
+            "description": "A database library",
+            "time": "2018-06-15T14:51:54+00:00"
+        },
+        {
+            "name": "movicon/http",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/movicon/movicon-http.git",
+                "reference": "b872022d87bfe1effd33a8cf9b583a777a239087"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/movicon/movicon-http/zipball/b872022d87bfe1effd33a8cf9b583a777a239087",
+                "reference": "b872022d87bfe1effd33a8cf9b583a777a239087",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "movicon\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Gonzalo Chumillas",
+                    "email": "gchumillas@email.com"
+                }
+            ],
+            "description": "A minimalist http controller.",
+            "time": "2018-06-14T12:50:50+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.6.0"
+    },
+    "platform-dev": []
+}
