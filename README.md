@@ -2,6 +2,8 @@
 
 A benchmark test.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IuHzx-6NIiE/0.jpg)](https://www.youtube.com/watch?v=IuHzx-6NIiE)
+
 ## Installation
 
 Download the repository, create a MySQL database and import the `database.sql` file. That script creates a table named `item`
